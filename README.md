@@ -289,6 +289,6 @@ y = ax + b + ε
 
 ---
 
-**作者**: HW1 Linear Regression Project  
+**作者**: Vibe coding-Claude Sonnet 4 at copilot
 **日期**: 2025-09-24  
 **版本**: 1.0.0
