@@ -1,5 +1,7 @@
 # 線性迴歸分析 - CRISP-DM 方法論實作
 
+相關專案已在 streamlit cloud 部署：https://k7-aiot-hw1.streamlit.app/
+
 ## 📋 專案概述
 
 這是一個使用 CRISP-DM 方法論實作的線性迴歸分析專案，提供互動式網頁介面讓使用者調整模型參數並即時查看結果。
